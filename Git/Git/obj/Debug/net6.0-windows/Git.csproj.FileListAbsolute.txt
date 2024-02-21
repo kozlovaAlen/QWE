@@ -1,0 +1,16 @@
+C:\Users\nikas\source\repos\Git\Git\bin\Debug\net6.0-windows\Git.exe
+C:\Users\nikas\source\repos\Git\Git\bin\Debug\net6.0-windows\Git.deps.json
+C:\Users\nikas\source\repos\Git\Git\bin\Debug\net6.0-windows\Git.runtimeconfig.json
+C:\Users\nikas\source\repos\Git\Git\bin\Debug\net6.0-windows\Git.dll
+C:\Users\nikas\source\repos\Git\Git\bin\Debug\net6.0-windows\Git.pdb
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.Form1.resources
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.csproj.GenerateResource.cache
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.AssemblyInfoInputs.cache
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.AssemblyInfo.cs
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.csproj.CoreCompileInputs.cache
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.dll
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\refint\Git.dll
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.pdb
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\Git.genruntimeconfig.cache
+C:\Users\nikas\source\repos\Git\Git\obj\Debug\net6.0-windows\ref\Git.dll
