@@ -23,5 +23,10 @@ namespace Git
             newForm.Controls.Add(textBox);
             newForm.ShowDialog();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
